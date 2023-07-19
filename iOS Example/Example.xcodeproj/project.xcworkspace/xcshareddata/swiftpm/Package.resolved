@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "jsen",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rogerluan/JSEN",
+      "state" : {
+        "revision" : "dd73b21b170e002c709e397dbfa915c30b47a53b",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "taksi-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/taksi-br/taksi-swift.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "739da7912968c9f31300c0bf4afc12c25a10d44a"
+      }
+    }
+  ],
+  "version" : 2
+}
